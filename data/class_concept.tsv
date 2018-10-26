@@ -1,0 +1,618 @@
+Class	Active_concepts	Boosted
+Job Automation	Additive Manufacturing	0
+Job Automation	Adult Skills	0
+Job Automation	Advanced Manufacturing	1
+Job Automation	Analytical Skills	1
+Job Automation	Artificial Intelligence	1
+Job Automation	Artificial Intelligence Systems	0
+Job Automation	Artificial Intelligence Technologies	1
+Job Automation	Automated System	0
+Job Automation	Automatic Adjustment	0
+Job Automation	Automatic Data Processing	1
+Job Automation	Automatic Data Processing Machines	0
+Job Automation	Automatic Processing	0
+Job Automation	Automatic Transmission	0
+Job Automation	Automatic Vehicle	0
+Job Automation	Automation Procedures	1
+Job Automation	Big Data	0
+Job Automation	Biobased Economy	0
+Job Automation	Bio-based Materials	0
+Job Automation	Cloud Computing	0
+Job Automation	Company’s Workforce	0
+Job Automation	Complex Problem Solving	1
+Job Automation	Computer Technology	1
+Job Automation	Declining Labour Share	0
+Job Automation	Digital Economy	0
+Job Automation	Digital Revolution	1
+Job Automation	Digital Risk Management	0
+Job Automation	Digital Security Risk Management	0
+Job Automation	Digital Skills	1
+Job Automation	Digital Technologies	1
+Job Automation	Displaced Workers	1
+Job Automation	Driverless Vehicles	0
+Job Automation	Electronic Commerce	0
+Job Automation	Emerging Technologies	1
+Job Automation	Engineering Bottlenecks	0
+Job Automation	Foresight Process	0
+Job Automation	Fourth Industrial Revolution	1
+Job Automation	Full Automation	1
+Job Automation	High Tech Jobs	1
+Job Automation	Human Drivers	0
+Job Automation	ICT Sector	0
+Job Automation	ICT Specialists	0
+Job Automation	Industrial Biotechnology	0
+Job Automation	Industrial Robots	1
+Job Automation	Information And Communication Technologies Firms	0
+Job Automation	Information And Communication Technologies Intensity	0
+Job Automation	Job Automation	1
+Job Automation	Job Losses	1
+Job Automation	Job Polarisation	0
+Job Automation	Job Tasks	1
+Job Automation	Labour Intensive Manufacturing	0
+Job Automation	Labour Intensive Manufacturing Industries	0
+Job Automation	Labour Intensive Manufacturing Sectors	0
+Job Automation	Labour Share	0
+Job Automation	Machine Learning Algorithms	1
+Job Automation	Manufacturing Innovation	1
+Job Automation	Manufacturing Research	0
+Job Automation	Metabolic Engineering	0
+Job Automation	Non-routine Tasks	0
+Job Automation	Premature Deindustrialization	0
+Job Automation	Production Technologies	0
+Job Automation	Road Freight Industry	0
+Job Automation	Road Freight Operators	0
+Job Automation	Routine Tasks	0
+Job Automation	Shift Share Analysis	0
+Job Automation	Skill Biased Technological Change	0
+Job Automation	Social Intelligence	0
+Job Automation	Social Skills	0
+Job Automation	Task Sharing	1
+Job Automation	Task Structure	1
+Job Automation	Technological Change	1
+Job Automation	Technological Unemployment	1
+Job Automation	Technology Assessment	0
+Job Automation	Technology Diffusion	1
+Job Automation	Truck Drivers	0
+New forms of work	Advanced Information And Communication Technology	0
+New forms of work	Big Data	1
+New forms of work	Cloud Computing	1
+New forms of work	Data Driven Innovation	1
+New forms of work	Digital Economy	1
+New forms of work	Digital Innovation	1
+New forms of work	Digital Technologies	1
+New forms of work	Environmental Patents	0
+New forms of work	Generic Information And Communication Technology Skills	0
+New forms of work	Gig Economy	0
+New forms of work	Green Economy	1
+New forms of work	Green Jobs	1
+New forms of work	Green Occupations	1
+New forms of work	Green Skills	1
+New forms of work	Green Skills Development	0
+New forms of work	Information And Communication Technologies Adoption	0
+New forms of work	Information And Communication Technologies Firms	0
+New forms of work	Information And Communication Technologies Sector	1
+New forms of work	Job Skill Requirements	1
+New forms of work	Labour Market Implications	1
+New forms of work	Market Platform	0
+New forms of work	National Digital Strategy	1
+New forms of work	New Economic Model	1
+New forms of work	Non-standard Work	1
+New forms of work	Part-time Work	1
+New forms of work	Renewable Energy	1
+New forms of work	Renewable Energy Sector	1
+New forms of work	Science, Technology And Innovation Policy	0
+New forms of work	Smart Networks	0
+New forms of work	Special Employment Programmes	0
+New forms of work	Structural Adjustment Pressures	0
+Job Quality	Assessing Job Quality	0
+Job Quality	Benign Effect	0
+Job Quality	Earnings Inequality	0
+Job Quality	Earnings Mobility	0
+Job Quality	Earnings Quality	0
+Job Quality	Earnings Trajectories	0
+Job Quality	Employee Mobility	0
+Job Quality	Enhancing Job Quality	0
+Job Quality	Equalising Effect	0
+Job Quality	Extreme Low Pay	0
+Job Quality	Factory Workers	0
+Job Quality	Health Shocks	0
+Job Quality	Inequality Aversion	0
+Job Quality	Informal Jobs	0
+Job Quality	Informal Workers	0
+Job Quality	Job Demands	0
+Job Quality	Job Insecurity	0
+Job Quality	Job Quality	0
+Job Quality	Job Quality Framework	0
+Job Quality	Job Quality Indicators	0
+Job Quality	Job Quantity	0
+Job Quality	Job Resources	0
+Job Quality	Job Satisfaction	0
+Job Quality	Job Strain	0
+Job Quality	Labour Demand Effects	0
+Job Quality	Labour Market Insecurity	0
+Job Quality	Labour Market Risks	0
+Job Quality	Labour Market Security	0
+Job Quality	Life Satisfaction	0
+Job Quality	Life Time Earnings	0
+Job Quality	Measuring Job Quality	0
+Job Quality	Mental Health	0
+Job Quality	Mental Health Problems	0
+Job Quality	Minimum Wage	0
+Job Quality	Multiple Job Holding	0
+Job Quality	Multiple Jobholding	0
+Job Quality	OECD Job Quality Framework	0
+Job Quality	Physical Health	0
+Job Quality	Positional Mobility	0
+Job Quality	Positive Effect Size	0
+Job Quality	Secondary Jobs	0
+Job Quality	Sick Leave	0
+Job Quality	Sickness Absence	0
+Job Quality	Standard Deviation	0
+Job Quality	Transition Probabilities	0
+Job Quality	Unemployment Risk	0
+Job Quality	Unobserved Heterogeneity	0
+Job Quality	Wage Mobility	0
+Job Quality	Work Environment	0
+Job Quality	Work Family Conflict	0
+Job Quality	Work Life Balance	0
+Job Quality	Working Conditions	0
+Job Quality	Working Hours	0
+School-to-work Transition	Academic Curriculum	0
+School-to-work Transition	Academic Education	0
+School-to-work Transition	Adult Skills	0
+School-to-work Transition	Apprenticeship Training	0
+School-to-work Transition	Career Aspirations	0
+School-to-work Transition	Career Expectations	0
+School-to-work Transition	Career Guidance	0
+School-to-work Transition	Community Colleges	0
+School-to-work Transition	Current Employment Statistics	0
+School-to-work Transition	Disadvantaged Young People	0
+School-to-work Transition	Disadvantaged Youth	0
+School-to-work Transition	Early Labour Market Outcomes	0
+School-to-work Transition	Earnings Premium	0
+School-to-work Transition	Economic Studies	0
+School-to-work Transition	Education Fall	0
+School-to-work Transition	Education Year	0
+School-to-work Transition	Employee Learning	0
+School-to-work Transition	Experience Profiles	0
+School-to-work Transition	Financial Literacy	0
+School-to-work Transition	Full Time Status	0
+School-to-work Transition	Future Labour Market Outcomes	0
+School-to-work Transition	General Skills	0
+School-to-work Transition	High School	0
+School-to-work Transition	Hourly Wage	0
+School-to-work Transition	Informal Employment	0
+School-to-work Transition	Information And Communication Technologies Skills	0
+School-to-work Transition	Information Processing Skills	0
+School-to-work Transition	Initial Education	0
+School-to-work Transition	Initial Vocational Education	0
+School-to-work Transition	Job Corps	0
+School-to-work Transition	Job Training Programmes	0
+School-to-work Transition	Labour Market	0
+School-to-work Transition	Labour Market Institutions	0
+School-to-work Transition	Labour Market Outcomes	0
+School-to-work Transition	Left School	0
+School-to-work Transition	Limited Work Experience	0
+School-to-work Transition	Literacy Proficiency	0
+School-to-work Transition	Literacy Proficiency Level	0
+School-to-work Transition	Minimum Wage	0
+School-to-work Transition	Not In Employment, Education Or Training Rates	0
+School-to-work Transition	Not In Employment, Education Or Training Status	0
+School-to-work Transition	Numeracy Proficiency	0
+School-to-work Transition	Out-of School Youth	0
+School-to-work Transition	Part-year Earnings	0
+School-to-work Transition	Permanent Contracts	0
+School-to-work Transition	Post-secondary Non-tertiary Education	0
+School-to-work Transition	Prime Age Workers	0
+School-to-work Transition	Problem Solving	0
+School-to-work Transition	Relative Earnings	0
+School-to-work Transition	REMOVING DEMAND SIDE BARRIERS	0
+School-to-work Transition	School Productivity	0
+School-to-work Transition	Senior High School	0
+School-to-work Transition	Short Time Work Schemes	0
+School-to-work Transition	Skills Changes	0
+School-to-work Transition	Skills Proficiency	0
+School-to-work Transition	Smaller Youth Cohorts	0
+School-to-work Transition	Statistical Discrimination	0
+School-to-work Transition	Student Expectations	0
+School-to-work Transition	Study Mismatch	0
+School-to-work Transition	Sub-minimum Wage	0
+School-to-work Transition	Subsidised Job	0
+School-to-work Transition	Technology Rich Environments	0
+School-to-work Transition	Temporary Contracts	0
+School-to-work Transition	Training Incidence	0
+School-to-work Transition	Transition Outcomes	0
+School-to-work Transition	Upper Secondary School	0
+School-to-work Transition	Vocational Curriculum	0
+School-to-work Transition	Vocational Training	0
+School-to-work Transition	Wage Bargaining	0
+School-to-work Transition	Young People	0
+School-to-work Transition	Young People’s Transition	0
+School-to-work Transition	Young Workers	0
+School-to-work Transition	Youth Apprenticeship	0
+School-to-work Transition	Youth Employment	0
+School-to-work Transition	Youth Joblessness	0
+School-to-work Transition	Youth Labour Market	0
+School-to-work Transition	Youth Labour Market Outcomes	0
+School-to-work Transition	Youth Labour Market Performance	0
+School-to-work Transition	Youth Sub-minimum Wage	0
+Skills	Abstract Tasks	0
+Skills	Address Skills Mismatches	0
+Skills	Adequate Skills	0
+Skills	Adult Skills	0
+Skills	Artificial Intelligence	0
+Skills	Basic ICT Skills	0
+Skills	Basic Information And Communication Technology Skills	0
+Skills	Big Data	0
+Skills	Brain Drain	0
+Skills	Changing Skill Demands	0
+Skills	Children's Skills	0
+Skills	Cognitive Skills	0
+Skills	Competence Building	0
+Skills	Complex Problem Solving	0
+Skills	Computer Capabilities	0
+Skills	Computer Science	0
+Skills	Computer Science Graduates	0
+Skills	Computer Scientists	0
+Skills	Computer Skills	0
+Skills	Computer Techniques	0
+Skills	Computer Training	0
+Skills	Creative Problem Solving	0
+Skills	Data Driven Innovation	0
+Skills	Digital Divide	0
+Skills	Digital Era	0
+Skills	Digital Reading	0
+Skills	Digital Reading Assessment	0
+Skills	Digital Reading Performance	0
+Skills	Digital Skills	0
+Skills	Digital Technologies	0
+Skills	Education Level	0
+Skills	Educational Attainment	0
+Skills	Emotional Development	0
+Skills	Emotional Learning	0
+Skills	Emotional Skills	0
+Skills	Entrepreneurial Skills	0
+Skills	Equality Training	0
+Skills	Formal Qualifications	0
+Skills	Formal Training	0
+Skills	Formal Training Activities	0
+Skills	Fourth Industrial Revolution	0
+Skills	Future Skills	0
+Skills	General Cognitive Abilities	0
+Skills	General Cognitive Skills	0
+Skills	General Skills	0
+Skills	Green Skills	0
+Skills	Green Skills Development	0
+Skills	Green Skills Training	0
+Skills	High Literacy Proficiency	0
+Skills	High Proficiency	0
+Skills	High Skill	0
+Skills	High Skilled Employment	0
+Skills	High Skilled Immigrants	0
+Skills	High Skilled Migrants	0
+Skills	High Skilled Workers	0
+Skills	High Skilled Youth	0
+Skills	Higher Cognitive Skills	0
+Skills	Higher Skill Mismatch	0
+Skills	Highest Proficiency Level	0
+Skills	Human Capital Policies	0
+Skills	Human Capital Requirements	0
+Skills	Human Skills	0
+Skills	In-demand Skills	0
+Skills	Industry Level Mismatch Indicators	0
+Skills	Influence Skills	0
+Skills	Informal Skills Development	0
+Skills	Informal Training	0
+Skills	Informal Training Activities	0
+Skills	Information And Communication Technologies Firms	0
+Skills	Information And Communication Technologies Industry	0
+Skills	Information And Communication Technologies Jobs	0
+Skills	Information And Communication Technologies Manufacturing	0
+Skills	Information And Communication Technologies Occupations	0
+Skills	Information And Communication Technologies Skilled Workers	0
+Skills	Information And Communication Technologies Skills	0
+Skills	Information And Communication Technologies Specialists	0
+Skills	Information And Communication Technologies Workers	0
+Skills	Information And Communication Technology Skilled Employment	0
+Skills	Information And Communication Technology Specialist Skills	0
+Skills	Information Gaps	0
+Skills	Information Processing Skills	0
+Skills	Initial Vocational Education And Training	0
+Skills	International Adult Literacy Survey	0
+Skills	International Standard Classification Of Education Level	0
+Skills	Job Characteristics	0
+Skills	Job Mismatch	0
+Skills	Job Polarisation	0
+Skills	Job Tasks	0
+Skills	Key Information Processing Skills	0
+Skills	Knowledge Based Capital	0
+Skills	Knowledge Intensive Firms	0
+Skills	Knowledge-based Capital Assets	0
+Skills	Knowledge-based Capital Investment	0
+Skills	Labour Market	0
+Skills	Labour Market Pressures	0
+Skills	Learning Context	0
+Skills	Learning Investments	0
+Skills	Level Of Education	0
+Skills	Lifelong Learning	0
+Skills	Lifelong Learning Provision	0
+Skills	Linguistic Boundaries	0
+Skills	Literacy Domains	0
+Skills	Literacy Levels	0
+Skills	Literacy Proficiency	0
+Skills	Literacy Questions	0
+Skills	Literacy Scale	0
+Skills	Literacy Skills	0
+Skills	Local Skills Ecosystems	0
+Skills	Low Cognitive Skills	0
+Skills	Low Formal Qualifications	0
+Skills	Low Literacy Skills	0
+Skills	Low Numeracy Skills	0
+Skills	Low Performers	0
+Skills	Low Proficiency	0
+Skills	Low Skill Levels	0
+Skills	Low Skilled Employment	0
+Skills	Low Skilled Occupations	0
+Skills	Manufacturing Sector	0
+Skills	Massive Open Online Courses	0
+Skills	Mid-level Skills	0
+Skills	Mismatch Indicators	0
+Skills	Non-cognitive Skills	0
+Skills	Non-formal Learning	0
+Skills	Non-routine Manual Tasks	0
+Skills	Numeracy Proficiency	0
+Skills	Numeracy Scores	0
+Skills	Numeracy Skills	0
+Skills	Numerous Gaps	0
+Skills	Numerous Questions	0
+Skills	Occupation Specific Skills	0
+Skills	Overqualified Workers	0
+Skills	Over-qualified Workers	0
+Skills	Over-skilled Workers	0
+Skills	Physical Skills	0
+Skills	Poor Reading Skills	0
+Skills	Post-secondary Vocational Education And Training	0
+Skills	Private Training Providers	0
+Skills	Problem Solving	0
+Skills	Problem Solving Skills	0
+Skills	Proficiency Level	0
+Skills	Proficient Workers	0
+Skills	Programme For International Student Assessment	0
+Skills	Programme For The International Assessment Of Adult Competencies Data	0
+Skills	Programme For The International Assessment Of Adult Competencies Survey	0
+Skills	Qualification Mismatch	0
+Skills	Quality Employment	0
+Skills	Quality Management	0
+Skills	Question Difficulty	0
+Skills	Raise Youth Employment	0
+Skills	Rapid Technological Change	0
+Skills	Reading Skills	0
+Skills	Recruitment Websites	0
+Skills	Reduce Skills Imbalances	0
+Skills	Routine Tasks	0
+Skills	Science Scores	0
+Skills	Science, Technology, Engineering And Mathematics Skills	0
+Skills	Self-organising Skills	0
+Skills	Self-reported Experience	0
+Skills	Semi-skilled Occupations	0
+Skills	Shortage Occupations	0
+Skills	Skill Areas	0
+Skills	Skill Complementarity	0
+Skills	Skill Dimension	0
+Skills	Skill Distribution	0
+Skills	Skill Domains	0
+Skills	Skill Endowment	0
+Skills	Skill Factor	0
+Skills	Skill Formation	0
+Skills	Skill Heterogeneity	0
+Skills	Skill Intensity	0
+Skills	Skill Requirements	0
+Skills	Skill Sets	0
+Skills	Skill Shortage List	0
+Skills	Skill Shortages	0
+Skills	Skilled Migrants	0
+Skills	Skilled Occupation List	0
+Skills	Skilled Workers	0
+Skills	Skilled Young People	0
+Skills	Skilled Youth	0
+Skills	Skills Assessment	0
+Skills	Skills Demand	0
+Skills	Skills Development	0
+Skills	Skills Development Activities	0
+Skills	Skills Ecosystem	0
+Skills	Skills Gaps	0
+Skills	Skills Imbalances	0
+Skills	Skills Indicators	0
+Skills	Skills Matter	0
+Skills	Skills Mismatch	0
+Skills	Skills Policies	0
+Skills	Skills Proficiency	0
+Skills	Skills Supply	0
+Skills	Skills Utilisation	0
+Skills	Specific Data	0
+Skills	STEM Fields	0
+Skills	Study Mismatch	0
+Skills	Tackle Skills Imbalances	0
+Skills	Task Intensity	0
+Skills	Teaching Practices	0
+Skills	Technological Unemployment	0
+Skills	Technology Rich Environments	0
+Skills	Training Development	0
+Skills	Training Ecosystem	0
+Skills	Training Indicator	0
+Skills	Training Initiatives	0
+Skills	Training Plan	0
+Skills	Training Providers	0
+Skills	Training System	0
+Skills	Under-qualified Workers	0
+Skills	Varied Skills	0
+Skills	Vocational Curricula	0
+Skills	Vocational Education And Training Graduates	0
+Skills	Vocational Education And Training Programmes	0
+Skills	Vocational Education And Training Qualifications	0
+Skills	Vocational Education And Training System	0
+Skills	Vocational Skills	0
+Skills	Work Based Learning	0
+Skills	Work Based Learning Programmes	0
+Skills	Work Experience Programmes	0
+Skills	Young NEETs	0
+Skills	Youth Employment	0
+Social Protection Policies	Active Employment Policies	0
+Social Protection Policies	Active Labour Market Policies	0
+Social Protection Policies	Active Labour Market Programmes	0
+Social Protection Policies	Actual Spending	0
+Social Protection Policies	Age Dependency Ratio	0
+Social Protection Policies	Basic Income	0
+Social Protection Policies	Basic Social Services	1
+Social Protection Policies	Basic Solidarity Pension	0
+Social Protection Policies	Beneficiary Families	0
+Social Protection Policies	Cash Benefits	0
+Social Protection Policies	Child Support Grant	0
+Social Protection Policies	Civic Organisations	0
+Social Protection Policies	Comprehensive Social Protection	0
+Social Protection Policies	Comprehensive Social Protection Systems	0
+Social Protection Policies	Conditional Cash Transfer Schemes	0
+Social Protection Policies	Conditional Transfer Programmes	0
+Social Protection Policies	Consumption Poverty Line	0
+Social Protection Policies	Contributory Social Protection	0
+Social Protection Policies	Contributory Social Security System	0
+Social Protection Policies	Cross-sectoral Activities	0
+Social Protection Policies	Cross-sectoral Coordination	0
+Social Protection Policies	Cross-sectoral Efforts	0
+Social Protection Policies	Day Care Centres	0
+Social Protection Policies	Decent Work	0
+Social Protection Policies	Disaster Risk	0
+Social Protection Policies	Disaster Risk Reduction	0
+Social Protection Policies	Economic Flows	0
+Social Protection Policies	Economically Active Population	0
+Social Protection Policies	Economically Inactive	0
+Social Protection Policies	Effective Social Protection	0
+Social Protection Policies	Emergency Protection	0
+Social Protection Policies	Extensive Social Protection	0
+Social Protection Policies	Family Allowance Programme	0
+Social Protection Policies	Family Allowances	1
+Social Protection Policies	Family Solidarity	0
+Social Protection Policies	Family Support	0
+Social Protection Policies	Federal Social Insurance	0
+Social Protection Policies	Formal Labour Market	0
+Social Protection Policies	Formal Workers	0
+Social Protection Policies	Gini Coefficient	0
+Social Protection Policies	Government Social Welfare	0
+Social Protection Policies	Health Care Access	1
+Social Protection Policies	Health Care Coverage	0
+Social Protection Policies	Home Based Care	0
+Social Protection Policies	Inclusive Social Protection	1
+Social Protection Policies	Income Distribution	1
+Social Protection Policies	Income Inequality	0
+Social Protection Policies	Income Transfer Programmes	0
+Social Protection Policies	Influence Income Distribution	0
+Social Protection Policies	Informal Economy	0
+Social Protection Policies	Informal Employment	0
+Social Protection Policies	Informal Workers	0
+Social Protection Policies	Intersectoral Cooperation	0
+Social Protection Policies	Jobseeker's Allowance	0
+Social Protection Policies	Labour Intermediation	0
+Social Protection Policies	Labour Intermediation Services	0
+Social Protection Policies	Labour Market	0
+Social Protection Policies	Labour Market Programmes	0
+Social Protection Policies	Low Coverage Rates	0
+Social Protection Policies	Lower Income Inequality	0
+Social Protection Policies	Main Social Protection	0
+Social Protection Policies	Market Income	0
+Social Protection Policies	Maternity Leave	1
+Social Protection Policies	National Social Protection Policy	0
+Social Protection Policies	Net Income Inequality	0
+Social Protection Policies	Net Social Expenditure	0
+Social Protection Policies	Net Total Social Expenditure	0
+Social Protection Policies	Non-contributory Cash Transfers	0
+Social Protection Policies	Non-contributory Pension	0
+Social Protection Policies	Non-contributory Social Protection	0
+Social Protection Policies	Non-contributory Social Protection Programmes	0
+Social Protection Policies	Non-salaried Workers	0
+Social Protection Policies	Non-working Age Population	0
+Social Protection Policies	Parental Leave	1
+Social Protection Policies	Pension Coverage	0
+Social Protection Policies	Pension Fund Administrators	0
+Social Protection Policies	Pension System	1
+Social Protection Policies	Pension System Reform	0
+Social Protection Policies	People's Living Conditions	1
+Social Protection Policies	Poor People	0
+Social Protection Policies	Precarious Labour Market	1
+Social Protection Policies	Private Health Plans	0
+Social Protection Policies	Private Pension Fund Management	0
+Social Protection Policies	Private Sector Providers	0
+Social Protection Policies	Private Social Benefits	0
+Social Protection Policies	Private Social Expenditure	0
+Social Protection Policies	Private Social Spending	0
+Social Protection Policies	Pro-poor Growth	0
+Social Protection Policies	Public Employment Programmes	0
+Social Protection Policies	Public Investment Projects	0
+Social Protection Policies	Public Social Expenditure	0
+Social Protection Policies	Public Social Protection Expenditure	0
+Social Protection Policies	Public Social Spending	1
+Social Protection Policies	Retirement Pension	0
+Social Protection Policies	Rural Workers	0
+Social Protection Policies	Safety Net	1
+Social Protection Policies	Severance Pay	0
+Social Protection Policies	Sickness Benefits	0
+Social Protection Policies	Sickness Cash Benefit	0
+Social Protection Policies	Social Assistance	0
+Social Protection Policies	Social Assistance Type	0
+Social Protection Policies	Social Cabinet	0
+Social Protection Policies	Social Cash Transfers	0
+Social Protection Policies	Social Citizenship	0
+Social Protection Policies	Social Compact	0
+Social Protection Policies	Social Expenditure	0
+Social Protection Policies	Social Information System	0
+Social Protection Policies	Social Insurance	0
+Social Protection Policies	Social Insurance Benefits	0
+Social Protection Policies	Social Insurance Schemes	0
+Social Protection Policies	Social Investment	0
+Social Protection Policies	Social Investment Fund	0
+Social Protection Policies	Social Pension	0
+Social Protection Policies	Social Policy Approach	0
+Social Protection Policies	Social Policy Areas	0
+Social Protection Policies	Social Protection	1
+Social Protection Policies	Social Protection Approach	0
+Social Protection Policies	Social Protection Benefits	0
+Social Protection Policies	Social Protection Component	0
+Social Protection Policies	Social Protection Coverage	1
+Social Protection Policies	Social Protection Expenditure	1
+Social Protection Policies	Social Protection Floor	0
+Social Protection Policies	Social Protection Floor Initiative	0
+Social Protection Policies	Social Protection Index	0
+Social Protection Policies	Social Protection Initiatives	1
+Social Protection Policies	Social Protection Instruments	0
+Social Protection Policies	Social Protection Interventions	0
+Social Protection Policies	Social Protection Measures	1
+Social Protection Policies	Social Protection Networks	0
+Social Protection Policies	Social Protection Policies	1
+Social Protection Policies	Social Protection Programmes	0
+Social Protection Policies	Social Protection Reforms	1
+Social Protection Policies	Social Protection Spending	0
+Social Protection Policies	Social Protection Systems	1
+Social Protection Policies	Social Rights	0
+Social Protection Policies	Social Risk Management	0
+Social Protection Policies	Social Security	1
+Social Protection Policies	Social Security Benefits	0
+Social Protection Policies	Social Security Contributions	0
+Social Protection Policies	Social Security Expenditure	1
+Social Protection Policies	Social Security Institutions	0
+Social Protection Policies	Social Security System	1
+Social Protection Policies	Social Spending	0
+Social Protection Policies	Social Spending Levels	0
+Social Protection Policies	Solidarity Component	0
+Social Protection Policies	Solidarity Pension	0
+Social Protection Policies	Temporary Employment Programme	0
+Social Protection Policies	Total Social Expenditure	0
+Social Protection Policies	Transfer Amounts	0
+Social Protection Policies	Unemployment Insurance	1
+Social Protection Policies	Universal Child Allowance	0
+Social Protection Policies	Universal Social Protection	1
+Social Protection Policies	Universal Social Protection Systems	0
+Social Protection Policies	Unpaid Work	0
+Social Protection Policies	Vulnerable Households	0
+Social Protection Policies	Welfare Gap	1
+Social Protection Policies	Welfare Regimes	1
+Social Protection Policies	Welfare State	0
+Social Protection Policies	Widening Income Distribution	0
